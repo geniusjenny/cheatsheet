@@ -94,3 +94,8 @@ https://medium.com/python-features/understanding-if-name-main-in-python-a37a3d4a
 https://github.com/pittcsc/NewGrad-2021
 https://github.com/jxucoder/2021-new-grads
 
+# Algorithm DP
+https://zhuanlan.zhihu.com/p/91582909
+
+
+
